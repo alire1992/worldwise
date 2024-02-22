@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-10-12T15:52:48.048Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "52.496159531097106",
+        "lng": "13.403320312500002"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-12T15:53:18.657Z",
+      "notes": "nice!",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.3730468750000004"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-12T15:56:39.557Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "38.71980474264239",
+        "lng": "-9.140625000000002"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Sanandaj",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2023-10-12T15:59:11.434Z",
+      "notes": "Amazing!",
+      "position": {
+        "lat": "35.31288398967159",
+        "lng": "47.0159912109375"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-12T22:23:51.114Z",
+      "notes": "nice\n",
+      "position": {
+        "lat": "51.467696956223385",
+        "lng": "-0.087890625"
+      },
+      "id": 73930391
+    }
+  ]
+}
